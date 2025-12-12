@@ -22,7 +22,7 @@ The dataset for this data analysis project was aquired from Kaggle at this link:
 
 We did not end up using the full dataset for our project, the features from the dataset that we used can be seen in this image.
 
-![Image1](https://github.com/Aidanjm13/USAccidentsDataAnalysis/Images/DataSummary.png)
+![Image1](https://github.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/DataSummary.png)
 
 We also did some analysis of this data through summary statistics. In this graph you can see the distribution of the severity of accidents. The scale is in hundereds of thousands.
 
