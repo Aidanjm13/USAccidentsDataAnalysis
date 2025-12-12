@@ -26,9 +26,15 @@ We did not end up using the full dataset for our project, the features from the 
 
 We also did some analysis of this data through summary statistics. In this graph you can see the distribution of the severity of accidents. The scale is in hundereds of thousands.
 
+![Image2](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/SeverityDistribution.png)
+
 This chart shows some basic statistics of the data.
 
+![Image3](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/BaseDataStatistics.png)
+
 Finally we can look how the average data for each severity level here.
+
+![Image4](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/MeanSeverityStatistics.png)
 
 ## Models
 
@@ -36,7 +42,15 @@ In order to better understand any relations between the data and to then be able
 
 The first model was a multiclass logistic regression model. The images below show the coefficient weights for the different features in the model which helps show which features contribute to the different severity of the accidents. From this we can see that features such as Distance, Temperature, Pressure, and the presence of objects such as stop lights or animal crossing all have major impacts on the severity of the accident.
 
+![Image5](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/CoefficientsNumerical.png)
+
+![Image6](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/CoefficientsCategorical.png)
+
+![Image7](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/CoefficientsStats.png)
+
 The second model we made was a decision tree. Decision trees are highly explainable as we can see the the splits that it is making through graphs with the image below. This shows some of the initial major decisions made, with Accident length, traffic signal, and the distance of the accident being major factors.
+
+![Image7](https://raw.githubusercontent.com/Aidanjm13/USAccidentsDataAnalysis/main/Images/DecisionTree.png)
 
 We also made a neural network, and while the neural network was best at predicting the severity of the accident, they are also known as being black box models. 
 For more information on these models and their effectiveness look at the Jupyter notebook linked above.
