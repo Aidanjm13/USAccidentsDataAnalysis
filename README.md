@@ -14,11 +14,11 @@ This project can be inspected and run through the above link.
 
 Here is a short video describing our project and showing how you can work through the notebook.
 
-###Put video here
+https://youtu.be/DhkAs147cko 
 
 ## Data
 
-The dataset for this data analysis project was aquired from Kaggle at this link: [Link text]https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download. It was compiled by Sobhan Moosavi.
+The dataset for this data analysis project was aquired from Kaggle at this link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download. It was compiled by Sobhan Moosavi.
 
 We did not end up using the full dataset for our project, the features from the dataset that we used can be seen in this image.
 
