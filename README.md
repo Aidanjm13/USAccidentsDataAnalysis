@@ -8,7 +8,7 @@ The goal of this project is to do exploratory data analysis on the severity of t
 
 https://colab.research.google.com/github/Aidanjm13/USAccidentsDataAnalysis/blob/main/USAccidentsDataAnalysis.ipynb
 
-This project can be inspected and run through the above link.
+This project can be inspected and run through the above link. To run through the colab simply read the text and press the play button on the code cell, it is all self sustaining.
 
 ## Video
 
