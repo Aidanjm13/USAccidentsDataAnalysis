@@ -12,6 +12,8 @@ https://colab.research.google.com/github/Aidanjm13/USAccidentsDataAnalysis/blob/
 
 This project can be inspected and run through the above link. To run through the colab simply read the text and press the play button on the code cell, it is all self sustaining.
 
+You can also find the Jupyter Notebook file in this repository called USAccidentsDataAnalysis.ipynb
+
 ## Video
 
 Here is a short video describing our project and showing how you can work through the notebook.
