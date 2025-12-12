@@ -22,7 +22,7 @@ The dataset for this data analysis project was aquired from Kaggle at this link:
 
 We did not end up using the full dataset for our project, the features from the dataset that we used can be seen in this image.
 
-![Picture1]([https://github.com/psu-edu/agile_stem_basic_game/assets/54818552/4730a87f-7b9f-46ae-bc83-d2e8c23b5ab7](https://github.com/Aidanjm13/USAccidentsDataAnalysis/blob/641bcc9bae67cfa24c0abbbf7d403dcca9418010/Images/DataSummary.png))
+![Image1](https://github.com/Aidanjm13/USAccidentsDataAnalysis/Images/DataSummary.png)
 
 We also did some analysis of this data through summary statistics. In this graph you can see the distribution of the severity of accidents. The scale is in hundereds of thousands.
 
