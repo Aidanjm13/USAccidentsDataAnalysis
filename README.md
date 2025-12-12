@@ -8,9 +8,7 @@ The goal of this project is to do exploratory data analysis on the severity of t
 
 https://colab.research.google.com/github/Aidanjm13/USAccidentsDataAnalysis/blob/main/USAccidentsDataAnalysis.ipynb
 
-This project can be inspected and run through a self sustaining Jupyter notebook. 
-Click this think to download the notebook file. ###Link for downloading Google Colab
-You can then simply add this file to your Google Drive and open it with Google Colaboratory. There are then descriptions of the code and project and you can click play on the code cells to run them yourselves.
+This project can be inspected and run through the above link.
 
 ## Video
 
