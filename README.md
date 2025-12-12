@@ -6,7 +6,7 @@ The goal of this project is to do exploratory data analysis on the severity of t
 
 ## How to Run this code
 
-https://colab.research.google.com/github/Aidanjm13/blob/main/USAccidentsDataAnalysis.ipynb
+https://colab.research.google.com/github/Aidanjm13/USAccidentsDataAnalysis/blob/main/USAccidentsDataAnalysis.ipynb
 
 This project can be inspected and run through a self sustaining Jupyter notebook. 
 Click this think to download the notebook file. ###Link for downloading Google Colab
